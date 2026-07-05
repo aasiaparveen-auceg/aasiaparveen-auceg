@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**aasiaparveen-auceg/aasiaparveen-auceg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MBA Graduate from Anna University, CEG Campus with Specialization in Business Analytics and Finance and Undergraduate in Mathematics from Madras University.
 
-Here are some ideas to get you started:
+## Tools I work with:
+- Microsoft Excel
+- Power BI
+- Tableau
+- SQL
+- Google Looker Studio
+- SPSS
+- Basic Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects:
+- [Telecom Customer Churn Analysis](https://github.com/aasiaparveen-auceg/Telecom-Customer-Churn-Analysis)
+- [Research Paper Published](https://github.com/aasiaparveen-auceg/Research-Paper)
+- [Business Project Standardization Research](https://github.com/aasiaparveen-auceg/BPS-Project)
+- [Portfolio Optimization using Excel](https://github.com/aasiaparveen-auceg/Portfolio-Optimization-using-Excel)
+- [Google Looker Studio Presentation](https://github.com/aasiaparveen-auceg/Google-Looker-Studio-Presentation)
