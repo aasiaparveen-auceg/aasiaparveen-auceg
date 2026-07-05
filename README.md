@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Aasia 👋
 
 I am an MBA Graduate from Anna University, CEG Campus with Specialization in Business Analytics and Finance and Undergraduate in Mathematics from Madras University.
 
